@@ -1,0 +1,12 @@
+co.appbrewery.micard.app-core-1.6.0-0 C:\Users\Saif\.gradle\caches\transforms-3\12b4794b5caf29bf440d50ea7048c91a\transformed\core-1.6.0\res
+co.appbrewery.micard.app-jetified-annotation-experimental-1.1.0-1 C:\Users\Saif\.gradle\caches\transforms-3\3e1991dda6c66b9f0750b6708f7555ea\transformed\jetified-annotation-experimental-1.1.0\res
+co.appbrewery.micard.app-jetified-window-1.0.0-beta04-2 C:\Users\Saif\.gradle\caches\transforms-3\6ab8af0e8c3bdefcd50a4bd93f926674\transformed\jetified-window-1.0.0-beta04\res
+co.appbrewery.micard.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Saif\.gradle\caches\transforms-3\ffd874562b3152b7118cba4421021b24\transformed\jetified-window-java-1.0.0-beta04\res
+co.appbrewery.micard.app-debug-4 C:\Users\Saif\Desktop\mi_card_flutter\android\app\src\debug\res
+co.appbrewery.micard.app-main-5 C:\Users\Saif\Desktop\mi_card_flutter\android\app\src\main\res
+co.appbrewery.micard.app-pngs-6 C:\Users\Saif\Desktop\mi_card_flutter\build\app\generated\res\pngs\debug
+co.appbrewery.micard.app-resValues-7 C:\Users\Saif\Desktop\mi_card_flutter\build\app\generated\res\resValues\debug
+co.appbrewery.micard.app-rs-8 C:\Users\Saif\Desktop\mi_card_flutter\build\app\generated\res\rs\debug
+co.appbrewery.micard.app-mergeDebugResources-9 C:\Users\Saif\Desktop\mi_card_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+co.appbrewery.micard.app-mergeDebugResources-10 C:\Users\Saif\Desktop\mi_card_flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+co.appbrewery.micard.app-merged_res-11 C:\Users\Saif\Desktop\mi_card_flutter\build\app\intermediates\merged_res\debug
